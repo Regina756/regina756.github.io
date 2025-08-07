@@ -8,9 +8,9 @@ A passionate backend developer from Myanmar.
 - 💾 Databases: MySQL, MongoDB
 - 🐧 OS: Window
 
-## 📂 Projects
+## 📂 Projects (Still in Progess)
 
-- 🔗 [Laravel Blog App](https://github.com/regina756/Current-Project)
+- 🔗 [Laravel Blog App](https://github.com/Regina756/regina756.github.io/tree/main/Current-Project)
 
 ## 📫 Contact Me
 - 📧 mainkham4@gmail.com
